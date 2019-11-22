@@ -16,7 +16,7 @@
     "extend-object": "~1.0.0"
   },
   "devDependencies": {
-    "benchmark": "~1.0.0",
+    "benchmark": "~2.1.4",
     "jshint": "~2.5.0",
     "tap": "~0.4.8",
     "Sentimental": "1.0.1"
