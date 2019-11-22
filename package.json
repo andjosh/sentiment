@@ -18,7 +18,7 @@
   "devDependencies": {
     "benchmark": "~1.0.0",
     "jshint": "~2.5.0",
-    "tap": "~0.4.8",
+    "tap": "~14.10.1",
     "Sentimental": "1.0.1"
   },
   "engines": {
